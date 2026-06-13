@@ -1,4 +1,5 @@
 <div align="center">
+<img width="480" height="480" alt="LOGO1" src="https://github.com/user-attachments/assets/b90545f6-198f-47ce-a14c-fb1c610f55e6" />
 
 # SnipPDF
 
